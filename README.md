@@ -111,7 +111,7 @@ These guides document the full system workflow from **assembly â†’ integration â
 
 ## Certification
 
-- [FAA TRUST Completion Certificate](https://github.com/hridyasatish/Drones/blob/main/docs/certifications/FAA_Trust_Certificate_Hridya_Satish.pdf)
+- [FAA TRUST Completion Certificate](./docs/certifications/FAA_Trust_Certificate_Hridya_Satish.pdf)
 
 Recreational UAS Safety Test (TRUST), issued in compliance with FAA requirements for drone operation.
 
