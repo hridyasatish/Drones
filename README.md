@@ -98,23 +98,22 @@ Final parameters were saved to enable **consistent and reproducible system bring
 - **Communication:** UART-based subsystem integration  
 
 ---
+## Documentation Guides
 
-## Documentation
+- [Quadcopter Build Guide](docs/guides/01_quadcopter_build_guide.pdf)
+- [Wiring and Interfaces Guide](docs/guides/02_wiring_and_interfaces_guide.pdf)
+- [Radio and Mission Planner Setup](docs/guides/03_radio_and_mission_planner_setup.pdf)
+- [Telemetry and Final Configuration](docs/guides/04_telemetry_and_final_configuration.pdf)
 
-Detailed step-by-step guides are included:
-
-- Quadcopter build process  
-- Electrical wiring and subsystem interfaces  
-- Radio and Mission Planner configuration  
-- Telemetry setup and final system tuning  
-
-These documents reflect a **structured engineering workflow from assembly to validated system**.
+These guides document the full system workflow from **assembly → integration → validation → final configuration**.
 
 ---
 
 ## Certification
 
-- FAA TRUST Certification (Recreational UAS Safety Test)
+- [FAA TRUST Completion Certificate](docs/certifications/FAA_Trust_Certificate_Hridya_Satish.pdf)
+
+Recreational UAS Safety Test (TRUST), issued in compliance with FAA requirements for drone operation.
 
 ---
 
