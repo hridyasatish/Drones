@@ -108,12 +108,10 @@ Final parameters were saved to enable **consistent and reproducible system bring
 These guides document the full system workflow from **assembly → integration → validation → final configuration**.
 
 ---
- 
-## Certification
+## Certifications
 
-- [FAA TRUST Completion Certificate](docs/certifications/FAA_Trust_Certificate_Hridya_Satish.pdf)
-
-Recreational UAS Safety Test (TRUST), issued in compliance with FAA requirements for drone operation.
+- [FAA TRUST Completion Certificate](docs/certifications/FAA_Trust_Certificate_Hridya_Satish.pdf)  
+  Recreational UAS Safety Test (TRUST), issued by the Academy of Model Aeronautics, October 2025.
 
 ---
 
